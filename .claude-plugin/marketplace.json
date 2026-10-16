@@ -1,0 +1,11 @@
+{
+  "name": "model-router-plugin",
+  "owner": { "name": "theUmeshC" },
+  "plugins": [
+    {
+      "name": "model-router",
+      "source": "./",
+      "description": "Picks the model and effort for each turn and subagent task, with a pane and status line. Control it with /route."
+    }
+  ]
+}

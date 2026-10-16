@@ -1,0 +1,6 @@
+{
+  "name": "model-router",
+  "version": "0.1.0",
+  "description": "Picks the model and effort for each turn, with a pane and a status line that show the choice. Control it with /route.",
+  "types": "./types/index.d.ts"
+}
